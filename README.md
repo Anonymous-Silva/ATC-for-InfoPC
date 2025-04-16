@@ -1,18 +1,19 @@
 # 🖥️ PC Info Viewer - ATC
 A lightweight and handy tool to quickly check your system’s basic information — no clutter, just the essentials.
 
-🔍 Features
-🧠 CPU model, cores, threads
+**🔍 Features**
 
-💾 RAM total and usage
+**🧠 CPU model, cores, threads**
 
-💽 Disk space (total/free)
+**💾 RAM total and usage**
 
-🎮 GPU info
+**💽 Disk space (total/free)**
 
-🌐 Network details (IP, hostname, etc.)
+**🎮 GPU info**
 
-🧾 OS version, architecture, and user info
+**🌐 Network details (IP, hostname, etc.)**
+
+**🧾 OS version, architecture, and user info**
 
 Whether you're a power user, a sysadmin, or just curious about what’s under the hood — this tool gives you a clean snapshot of your PC in seconds.
 
